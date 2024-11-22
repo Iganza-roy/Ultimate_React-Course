@@ -1,4 +1,4 @@
-import './App.css'
+import './App.css';
 import profile from './assets/roy kibata.jpg';
 
 const Avatar = () => {
