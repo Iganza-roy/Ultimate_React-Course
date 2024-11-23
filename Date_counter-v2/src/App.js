@@ -47,7 +47,7 @@ function FlashCards() {
   const [selectedId, setSelectedId] = useState(null); // null is the initial state
 
   const handleClick = (id) => {
-    setSelectedId(id !== selectedId ? id : null);
+    setSelectedId(id !== selectedId ? id : null); // conditionally checking if the there's an id
   };
 
   return (
