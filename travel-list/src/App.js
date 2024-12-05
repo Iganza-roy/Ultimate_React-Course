@@ -95,7 +95,7 @@ function Stats() {
   return (
     <footer className='stats'>
       <em>👜You have X item on your list, and already packed X (X%)</em>
-      <h2>NEW ITEM</h2>
+      <h2>coming to change</h2>
     </footer>
   );
 }
