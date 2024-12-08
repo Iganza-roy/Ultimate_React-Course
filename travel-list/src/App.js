@@ -136,7 +136,6 @@ function Stats({ items }) {
           ? 'You got everything ready to Go!✈️'
           : `👜You have ${numItems} items on your list, and already packed ${numPacked} (${percentage}%)`}
       </em>
-      <span>Coming to change</span>
     </footer>
   );
 }
