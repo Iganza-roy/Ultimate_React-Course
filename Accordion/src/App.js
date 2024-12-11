@@ -14,6 +14,10 @@ const faqs = [
     title: 'Do you ship to countries outside the EU?',
     text: 'Excepturi velit laborum, perspiciatis nemo perferendis reiciendis aliquam possimus dolor sed! Dolore laborum ducimus veritatis facere molestias!',
   },
+  {
+    title: 'Do you ship to countries outside the EU?',
+    text: 'Excepturi velit laborum, perspiciatis nemo perferendis reiciendis aliquam possimus dolor sed! Dolore laborum ducimus veritatis facere molestias!',
+  },
 ];
 
 export default function App() {
