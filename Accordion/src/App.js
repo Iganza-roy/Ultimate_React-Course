@@ -12,7 +12,7 @@ const faqs = [
   },
   {
     title: 'Do you ship to countries outside the EU?',
-    text: 'Excepturi velit laborum, perspiciatis nemo perferendis reiciendis aliquam possimus dolor sed! Dolore laborum ducimus veritatis facere molestias!',
+    text: 'Exceptu velit laboru, perspiciatis nemo perferendis reiciendis aliquam possimus dolor sed! Dolore laborum ducimus veritatis facere molestias!',
   },
 ];
 
