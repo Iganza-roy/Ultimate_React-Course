@@ -28,14 +28,14 @@ function Accordion({ data }) {
   const [curOpen, setcurOpen] = useState(null);
   return (
     <div className='accordion'>
-      {data.map((el, i) => (
+      {data.map((el, k) => (
         <AccordionItem
           curOpen={curOpen}
           onOpen={setcurOpen}
           title={el.title}
           text={el.text}
-          num={i}
-          key={i}
+          num={k}
+          key={k}
         />
       ))}
     </div>
